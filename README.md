@@ -1,3 +1,2 @@
 # ECSTest
 
-UnityのEntityComponentSystemでシンプルなテストプログラムを作りました。
