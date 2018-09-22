@@ -1,2 +1,3 @@
 # ECSTest
 
+[!Art/esc.gif]
